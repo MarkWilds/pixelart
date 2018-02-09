@@ -1,0 +1,12 @@
+{ "columns":3,
+ "image":"platform_tiles.png",
+ "imageheight":384,
+ "imagewidth":192,
+ "margin":0,
+ "name":"platform_basic",
+ "spacing":0,
+ "tilecount":18,
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset"
+}
